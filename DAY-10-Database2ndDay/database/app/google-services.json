@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "570486575311",
+    "firebase_url": "https://database123456789-default-rtdb.firebaseio.com",
+    "project_id": "database123456789",
+    "storage_bucket": "database123456789.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570486575311:android:60ba224c39357a3ac8e7ba",
+        "android_client_info": {
+          "package_name": "com.aleeha.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zP81N8eTCW8YaIBRALeKWCt2Cgh-SwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570486575311:android:17790e205b685df6c8e7ba",
+        "android_client_info": {
+          "package_name": "com.aleeha.userdataapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zP81N8eTCW8YaIBRALeKWCt2Cgh-SwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
