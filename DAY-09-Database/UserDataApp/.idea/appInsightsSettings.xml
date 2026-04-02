@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.aleeha.userdataapp" />
+                  <option name="mobileSdkAppId" value="1:570486575311:android:17790e205b685df6c8e7ba" />
+                  <option name="projectId" value="database123456789" />
+                  <option name="projectNumber" value="570486575311" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
